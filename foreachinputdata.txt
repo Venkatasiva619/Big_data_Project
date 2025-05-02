@@ -1,0 +1,15 @@
+[
+{
+"csv_related_url":"Big_data_Project/refs/heads/main/Data_set/olist_customers_dataset.csv",
+"filename":"olist_customers_dataset.csv"
+},
+{
+"csv_related_url":"Big_data_Project/refs/heads/main/Data_set/olist_order_items_dataset.csv",
+"filename":"olist_order_items_dataset.csv"
+},
+{
+"csv_related_url":"Big_data_Project/refs/heads/main/Data_set/olist_order_payments_dataset.csv",
+"filename":"olist_order_payments_dataset.csv"
+}
+]
+
